@@ -9,6 +9,7 @@ what's up papu, in this github you can find a lot of osu ​​skins from catama
 <a href="player/vierjapaz/vierjapaz.md">vierjapaz<a/><br>
 <a href="player/blzt/blzt.md">bleizt<a/><br>
 <a href="player/zykno/zykno.md">zykno<a/><br>
+<a href="player/pipipupu997/pipipupu997.md">pipipupu997<a/><br>
  
 
 
@@ -41,6 +42,12 @@ what's up papu, in this github you can find a lot of osu ​​skins from catama
     <img src="https://a.ppy.sh/6105480"  
        width="175"
        height="175"></a>
+
+  <a href="player/pipipupu997/pipipupu997.md">     
+      <img src="https://a.ppy.sh/20120615"  
+       width="175"
+       height="175"></a>
+   
        
 
  
