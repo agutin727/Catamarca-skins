@@ -6,5 +6,5 @@
        height="150"></a>
 <br>
 
-  # [DARKYSKINUWU]
+  # [DARKYSKINUWU](https://github.com/agutin727/Catamarca-skins/blob/main/players/-darky/DARKYSKYNUWU.osk)
   [![](https://osu.ppy.sh/ss/19222080/ed9e)](https://github.com/agutin727/Catamarca-skins/blob/main/players/-darky/DARKYSKYNUWU.osk)
