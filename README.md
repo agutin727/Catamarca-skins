@@ -2,14 +2,14 @@ que onda papurri,En este github podras encontrar una gran parte de skins de osu 
 
 what's up papu, in this github you can find a lot of osu ​​skins from catamarca army, if you want to add skins to this github or want to suggest a change send me a message on discord! (darkyzzz)
 
- <summary>list instead of icons</summary><br>
+ 
 <a href="player/-darky/-darky.md">-darky</a><br>
 <a href="player/istringer/istringer.md">istringer</a><br>
 <a href="player/r1cho/richo.md">r1cho<a/><br>
 <a href="player/vierjapaz/vierjapaz.md">vierjapaz<a/><br>
 <a href="player/blzt/blzt.md">bleizt<a/><br>
 <a href="player/zykno/zykno.md">zykno<a/><br>
- <summary>skinning tools</summary><br>
+ 
 
 
  <a href="player/-darky/-darky.md">
