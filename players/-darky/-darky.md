@@ -7,4 +7,4 @@
 <br>
 
   # [DARKYSKINUWU]
-  [![](https://osu.ppy.sh/ss/19222080/ed9e)]     
+  [![](https://osu.ppy.sh/ss/19222080/ed9e)](https://github.com/agutin727/Catamarca-skins/blob/main/players/-darky/DARKYSKYNUWU.osk)
