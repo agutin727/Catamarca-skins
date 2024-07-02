@@ -6,6 +6,15 @@
        height="175"></a>
 <br>
 
+# [IStringer](https://github.com/agutin727/Catamarca-skins/blob/main/players/istringer/IStringer.osk)
+[![](https://osu.ppy.sh/ss/19222214/00eb)](https://github.com/agutin727/Catamarca-skins/blob/main/players/istringer/IStringer.osk)
+
+# [IStringer[NM]](https://github.com/agutin727/Catamarca-skins/blob/main/players/istringer/IStringer%5BNM%5D.osk)
+[![](https://osu.ppy.sh/ss/19222218/461a)](https://github.com/agutin727/Catamarca-skins/blob/main/players/istringer/IStringer%5BNM%5D.osk)
+
+# [-clacked rafis_ninerik](https://github.com/agutin727/Catamarca-skins/blob/main/players/istringer/-%20clacked%20rafis_ninerik.osk)
+[![](https://osu.ppy.sh/ss/19222212/cb35)](https://github.com/agutin727/Catamarca-skins/blob/main/players/istringer/-%20clacked%20rafis_ninerik.osk)
+
 # [-dffñsdfsdklfsdlk](https://github.com/agutin727/Catamarca-skins/blob/main/players/istringer/-dff%C3%B1sdfsdklfsdlk.osk)
 [![](https://osu.ppy.sh/ss/19222204/5986)](https://github.com/agutin727/Catamarca-skins/blob/main/players/istringer/-dff%C3%B1sdfsdklfsdlk.osk)
 
