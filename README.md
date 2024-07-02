@@ -1,4 +1,4 @@
-# porno 
+# Catamarca Skins
 
 que onda papurri,En este github podras encontrar una gran parte de skins de osu de catamarca army, si quieres agregar skins a este github o quieres sugerir un cambio mandame un mensaje a discord!(darkyzzz)
 
