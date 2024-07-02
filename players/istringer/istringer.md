@@ -1,4 +1,4 @@
-# istringer's skinhub
+<FONT COLOR="cyan"> # istringer's skinhub </FONT>
 
 hola si
 
