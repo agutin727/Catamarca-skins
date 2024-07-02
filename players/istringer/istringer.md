@@ -23,3 +23,6 @@ hola si
 
 # [ARISTIA INSTAFADE](https://github.com/agutin727/Catamarca-skins/blob/main/players/istringer/Aristia(instafade).osk)
 [![](https://osu.ppy.sh/ss/19222195/584a)](https://github.com/agutin727/Catamarca-skins/blob/main/players/istringer/Aristia(instafade).osk)
+
+# [VierjaPaz-[NathanRam]](https://github.com/agutin727/Catamarca-skins/blob/main/players/istringer/VierjaPaz-%5BNathanRam%5D.osk)
+[![](https://osu.ppy.sh/ss/19222221/846c)](https://github.com/agutin727/Catamarca-skins/blob/main/players/istringer/VierjaPaz-%5BNathanRam%5D.osk)
