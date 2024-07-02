@@ -21,52 +21,52 @@ what's up papu, in this github you can find a lot of osu ​​skins from catama
   </details>
 
 
- <a href="player/-darky/-darky.md">
+ <a href="player/s-darky/-darky.md">
   <img src="https://a.ppy.sh/20328099"  
        width="175"
        height="175"></a>
        
- <a href="player/istringer/istringer.md">
+ <a href="players/istringer/istringer.md">
   <img src="https://a.ppy.sh/16918052"  
        width="175"
        height="175"></a>
 
-  <a href="player/r1cho/richo.md">
+  <a href="players/r1cho/richo.md">
     <img src="https://a.ppy.sh/13065919"  
        width="175"
        height="175"></a>
 
-   <a href="player/vierjapaz/vierjapaz.md">
+   <a href="players/vierjapaz/vierjapaz.md">
     <img src="https://a.ppy.sh/12301126"  
        width="175"
        height="175"></a>
 
-  <a href="player/blzt/blzt.md">
+  <a href="players/blzt/blzt.md">
    <img src="https://a.ppy.sh/13999216"  
        width="175"
        height="175"></a>
  
-  <a href="player/zykno/zykno.md">
+  <a href="players/zykno/zykno.md">
     <img src="https://a.ppy.sh/6105480"  
        width="175"
        height="175"></a>
 
-  <a href="player/pipipupu997/pipipupu997.md">     
+  <a href="players/pipipupu997/pipipupu997.md">     
       <img src="https://a.ppy.sh/20120615"  
        width="175"
        height="175"></a>
        
-   <a href="player/linx/linx.md">
+   <a href="players/linx/linx.md">
     <img src="https://a.ppy.sh/10970229"  
        width="175"
        height="175"></a>
   
-   <a href="player/gonsoo/gonsoo.md">    
+   <a href="players/gonsoo/gonsoo.md">    
       <img src="https://a.ppy.sh/10018024"  
        width="175"
        height="175"></a>
    
-   <a href="player/MikoRightTit/MikoRightTit.md">
+   <a href="players/MikoRightTit/MikoRightTit.md">
        <img src="https://a.ppy.sh/22259826"  
        width="175"
        height="175"></a>
