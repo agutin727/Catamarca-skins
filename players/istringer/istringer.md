@@ -1,4 +1,7 @@
 # istringer's skinhub
+
+hola si
+
 <p align="center">
 <a href="players/istringer/istringer.md">
   <img src="https://a.ppy.sh/16918052"  
