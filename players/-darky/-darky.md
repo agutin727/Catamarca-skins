@@ -6,5 +6,5 @@
        height="150"></a>
 <br>
 
-  # [darkyskin original]
+  # [DARKYSKINUWU]
   [![](https://osu.ppy.sh/ss/19222080/ed9e)]     
