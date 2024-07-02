@@ -6,16 +6,16 @@ what's up papu, in this github you can find a lot of osu ​​skins from catama
 
 <details>
  <summary>lista de players</summary><br>
-· <a href="player/-darky/-darky.md">-darky</a><br>
-· <a href="player/istringer/istringer.md">istringer</a><br>
-· <a href="player/r1cho/richo.md">r1cho<a/><br>
-· <a href="player/vierjapaz/vierjapaz.md">vierjapaz<a/><br>
-· <a href="player/blzt/blzt.md">bleizt<a/><br>
-· <a href="player/zykno/zykno.md">zykno<a/><br>
-· <a href="player/pipipupu997/pipipupu997.md">pipipupu997<a/><br>
-· <a href="player/linx/linx.md">linx<a/><br> 
-· <a href="player/gonsoo/gonsoo.md">gonsoo<a/><br> 
-· <a href="player/MikoRightTit/MikoRightTit.md">MikoRightTit<a/><br> 
+· <a href="players/-darky/-darky.md">-darky</a><br>
+· <a href="players/istringer/istringer.md">istringer</a><br>
+· <a href="players/r1cho/richo.md">r1cho<a/><br>
+· <a href="players/vierjapaz/vierjapaz.md">vierjapaz<a/><br>
+· <a href="players/blzt/blzt.md">bleizt<a/><br>
+· <a href="players/zykno/zykno.md">zykno<a/><br>
+· <a href="players/pipipupu997/pipipupu997.md">pipipupu997<a/><br>
+· <a href="players/linx/linx.md">linx<a/><br> 
+· <a href="players/gonsoo/gonsoo.md">gonsoo<a/><br> 
+· <a href="players/MikoRightTit/MikoRightTit.md">MikoRightTit<a/><br> 
 
 
   </details>
