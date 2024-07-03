@@ -9,3 +9,6 @@
 
 # [Aristia NM](https://github.com/agutin727/Catamarca-skins/raw/main/players/MikoRightTit/Aristia%20NM.osk)
 [![](https://osu.ppy.sh/ss/19222903/1db7)](https://github.com/agutin727/Catamarca-skins/raw/main/players/MikoRightTit/Aristia%20NM.osk)
+
+# [Aristia low AR](https://github.com/agutin727/Catamarca-skins/blob/main/players/MikoRightTit/Aristia%20low%20AR.osk)
+[![](https://osu.ppy.sh/ss/19222905/ebb4)]
