@@ -1,4 +1,4 @@
-# Catamarca Skins
+i# Catamarca Skins
 
 que onda papurri,En este github podras encontrar una gran parte de skins de osu de catamarca army, si quieres agregar skins a este github o quieres sugerir un cambio mandame un mensaje a discord!(darkyzzz)
 
@@ -10,7 +10,7 @@ what's up papu, in this github you can find a lot of osu ​​skins from catama
 · <a href="players/istringer/istringer.md">istringer</a><br>
 · <a href="players/r1cho/r1cho.md">r1cho<a/><br>
 · <a href="players/vierjapaz/vierjapaz.md">vierjapaz<a/><br>
-· <a href="players/blzt/blzt.md">blzt<a/><br>
+· <a href="players/bleizt/bleizt.md">bleizt<a/><br>
 · <a href="players/zykno/zykno.md">zykno<a/><br>
 · <a href="players/pipipupu997/pipipupu997.md">pipipupu997<a/><br>
 · <a href="players/linx/linx.md">linx<a/><br> 
@@ -41,7 +41,7 @@ what's up papu, in this github you can find a lot of osu ​​skins from catama
        width="175"
        height="175"></a>
 
-  <a href="players/blzt/blzt.md">
+  <a href="players/bleizt/bleizt.md">
    <img src="https://a.ppy.sh/13999216"  
        width="175"
        height="175"></a>
