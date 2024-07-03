@@ -17,5 +17,5 @@
 # [BoctokWada FunOrange Colors](https://github.com/agutin727/Catamarca-skins/raw/main/players/voctok/BoctokWada%20(FunOrange%20Colors).osk)
 [![](https://osu.ppy.sh/ss/19223053/823d)](https://github.com/agutin727/Catamarca-skins/raw/main/players/voctok/BoctokWada%20(FunOrange%20Colors).osk)
 
-# [BoctokWada FunOrange Colors](https://github.com/agutin727/Catamarca-skins/raw/main/players/voctok/the%20girl%20on%20the%20moon%20v1.5.osk)
+# [the girl on the moon v1.5](https://github.com/agutin727/Catamarca-skins/raw/main/players/voctok/the%20girl%20on%20the%20moon%20v1.5.osk)
 [![](https://osu.ppy.sh/ss/19223055/2d20)](https://github.com/agutin727/Catamarca-skins/raw/main/players/voctok/the%20girl%20on%20the%20moon%20v1.5.osk)
