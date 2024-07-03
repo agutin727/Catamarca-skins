@@ -16,6 +16,7 @@ what's up papu, in this github you can find a lot of osu ​​skins from catama
 · <a href="players/linx/linx.md">linx<a/><br> 
 · <a href="players/gonsoo/gonsoo.md">gonsoo<a/><br> 
 · <a href="players/MikoRightTit/MikoRightTit.md">MikoRightTit<a/><br> 
+· <a href="players/voctok/voctok.md">voctok<a/><br> 
 
 
   </details>
@@ -68,6 +69,11 @@ what's up papu, in this github you can find a lot of osu ​​skins from catama
    
    <a href="players/MikoRightTit/MikoRightTit.md">
        <img src="https://a.ppy.sh/22259826"  
+       width="175"
+       height="175"></a>
+
+<a href="players/voctok/voctok.md">
+       <img src="https://a.ppy.sh/13881936"  
        width="175"
        height="175"></a>
  
