@@ -7,7 +7,7 @@
        height="175"></a>
 <br>
 
-# [Rafis 2018](https://github.com/agutin727/Catamarca-skins/raw/main/players/r1cho/Rafis%202018-03-26%20HDDT.osk)
+# [Rafis 2018-03-26 HDDT](https://github.com/agutin727/Catamarca-skins/raw/main/players/r1cho/Rafis%202018-03-26%20HDDT.osk)
 [![](https://osu.ppy.sh/ss/19222857/13c4)](https://github.com/agutin727/Catamarca-skins/raw/main/players/r1cho/Rafis%202018-03-26%20HDDT.osk)
 
 # [vv_idke_trail](https://github.com/agutin727/Catamarca-skins/raw/main/players/r1cho/vv_idke_trail.osk)
@@ -27,3 +27,6 @@
 
 # [aristia_poddymiona](https://github.com/agutin727/Catamarca-skins/raw/main/players/r1cho/aristia_poddymiona.osk)
 [![](https://osu.ppy.sh/ss/19222937/01f4)](https://github.com/agutin727/Catamarca-skins/raw/main/players/r1cho/aristia_poddymiona.osk)
+
+# [aristia_poddymiona](https://github.com/agutin727/Catamarca-skins/raw/main/players/r1cho/Aleph Aricin Mix 2024.osk)
+[![](https://osu.ppy.sh/ss/19222958/22a6)](https://github.com/agutin727/Catamarca-skins/raw/main/players/r1cho/Aleph%Aricin%Mix%2024.osk)
