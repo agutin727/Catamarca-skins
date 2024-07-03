@@ -1,6 +1,6 @@
 # bleizt's skinhub
-<p align="center">
-[![](https://a.ppy.sh/20120615?1696716550.jpeg)](https://osu.ppy.sh/users/20120615)
+
+
 <p align="center">
 <a href="players/blzt/blzt.md">
    <img src="https://a.ppy.sh/13999216"  
