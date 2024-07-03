@@ -28,5 +28,5 @@
 # [aristia_poddymiona](https://github.com/agutin727/Catamarca-skins/raw/main/players/r1cho/aristia_poddymiona.osk)
 [![](https://osu.ppy.sh/ss/19222937/01f4)](https://github.com/agutin727/Catamarca-skins/raw/main/players/r1cho/aristia_poddymiona.osk)
 
-# [aristia_poddymiona](https://github.com/agutin727/Catamarca-skins/raw/main/players/r1cho/Aleph Aricin Mix 2024.osk)
+# [Aleph Aricin Mix 2024](https://github.com/agutin727/Catamarca-skins/raw/main/players/r1cho/Aleph Aricin Mix 2024.osk)
 [![](https://osu.ppy.sh/ss/19222958/22a6)](https://github.com/agutin727/Catamarca-skins/raw/main/players/r1cho/Aleph%Aricin%Mix%2024.osk)
