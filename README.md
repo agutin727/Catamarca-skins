@@ -21,7 +21,7 @@ what's up papu, in this github you can find a lot of osu ​​skins from catama
   </details>
 
 
- <a href="player/s-darky/-darky.md">
+ <a href="player/-darky/-darky.md">
   <img src="https://a.ppy.sh/20328099"  
        width="175"
        height="175"></a>
