@@ -31,3 +31,6 @@
 
 # [how the sky was](https://github.com/agutin727/Catamarca-skins/raw/main/players/bleizt/how%20the%20sky%20was.osk)
 [![](https://osu.ppy.sh/ss/19222990/7c4a)](https://github.com/agutin727/Catamarca-skins/raw/main/players/bleizt/how%20the%20sky%20was.osk)
+
+# [aristia rudj](https://github.com/agutin727/Catamarca-skins/raw/main/players/bleizt/aristia%20rudj.osk)
+[![](https://osu.ppy.sh/ss/19223024/0d34)](https://github.com/agutin727/Catamarca-skins/raw/main/players/bleizt/aristia%20rudj.osk)
