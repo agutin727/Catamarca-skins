@@ -8,4 +8,4 @@
 <br>
 
 # [333](https://github.com/agutin727/Catamarca-skins/blob/main/players/bleizt/-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%9C%B1333.osk)
-[![(https://osu.ppy.sh/ss/19222854/0f5a)](https://github.com/agutin727/Catamarca-skins/blob/main/players/bleizt/-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%9C%B1333.osk)
+[!(https://osu.ppy.sh/ss/19222854/0f5a)](https://github.com/agutin727/Catamarca-skins/blob/main/players/bleizt/-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%9C%B1333.osk)
