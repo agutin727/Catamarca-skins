@@ -8,3 +8,4 @@
 <br>
 
 # [Aristia NM](https://github.com/agutin727/Catamarca-skins/raw/main/players/MikoRightTit/Aristia%20NM.osk)
+[![](https://osu.ppy.sh/ss/19222903/1db7)](https://github.com/agutin727/Catamarca-skins/raw/main/players/MikoRightTit/Aristia%20NM.osk)
