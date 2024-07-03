@@ -7,3 +7,6 @@
        width="175"
        height="175"></a>
 <br>
+
+# [BoctokWada MonkoE](https://github.com/agutin727/Catamarca-skins/raw/main/players/voctok/BoctokWada%20(MonkoE).osk)
+[![](https://osu.ppy.sh/ss/19223036/5d99)](https://github.com/agutin727/Catamarca-skins/raw/main/players/voctok/BoctokWada%20(MonkoE).osk)
