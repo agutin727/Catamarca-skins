@@ -3,7 +3,7 @@
 hola si
 
 <p align="center">
-<a href="players/istringer/istringer.md">
+<a href="https://osu.ppy.sh/users/16918052">
   <img src="https://a.ppy.sh/16918052"  
        width="175"
        height="175"></a>
