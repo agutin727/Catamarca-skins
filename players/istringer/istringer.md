@@ -10,7 +10,7 @@ hola si
 <br>
 
 # [IStringer](https://github.com/agutin727/Catamarca-skins/blob/main/players/istringer/IStringer.osk)
-[![](https://osu.ppy.sh/ss/19222214/00eb)](https://github.com/agutin727/Catamarca-skins/blob/main/players/istringer/IStringer.osk)
+[![](https://osu.ppy.sh/ss/19222214/00eb)](https://github.com/agutin727/Catamarca-skins/raw/main/players/istringer/IStringer.osk)
 
 # [IStringer[NM]](https://github.com/agutin727/Catamarca-skins/blob/main/players/istringer/IStringer%5BNM%5D.osk)
 [![](https://osu.ppy.sh/ss/19222218/461a)](https://github.com/agutin727/Catamarca-skins/blob/main/players/istringer/IStringer%5BNM%5D.osk)
