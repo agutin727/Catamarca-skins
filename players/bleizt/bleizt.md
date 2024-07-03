@@ -28,3 +28,6 @@
 
 # [azerino_x_przemizz](https://github.com/agutin727/Catamarca-skins/raw/main/players/bleizt/azerino%20x%20przemizz.osk)
 [![](https://osu.ppy.sh/ss/19222959/acf4)](https://github.com/agutin727/Catamarca-skins/raw/main/players/bleizt/azerino%20x%20przemizz.osk)
+
+# [how the sky was](https://github.com/agutin727/Catamarca-skins/raw/main/players/bleizt/how%20the%20sky%20was.osk)
+[![](https://osu.ppy.sh/ss/19222990/7c4a)](https://github.com/agutin727/Catamarca-skins/raw/main/players/bleizt/how%20the%20sky%20was.osk)
