@@ -31,7 +31,7 @@ what's up papu, in this github you can find a lot of osu ​​skins from catama
        width="175"
        height="175"></a>
 
-  <a href="players/r1cho/richo.md">
+  <a href="players/r1cho/r1cho.md">
     <img src="https://a.ppy.sh/13065919"  
        width="175"
        height="175"></a>
