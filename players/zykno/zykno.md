@@ -10,3 +10,6 @@
 
 # [Monoedit](https://github.com/agutin727/Catamarca-skins/raw/main/players/zykno/Monoedit.osk)
 [![](https://osu.ppy.sh/ss/19223367/5e46)](https://github.com/agutin727/Catamarca-skins/raw/main/players/zykno/Monoedit.osk)
+
+# [Boop k](https://github.com/agutin727/Catamarca-skins/raw/main/players/zykno/boop%20k.osk)
+[![](https://osu.ppy.sh/ss/19223369/44f9)](https://github.com/agutin727/Catamarca-skins/raw/main/players/zykno/boop%20k.osk)
