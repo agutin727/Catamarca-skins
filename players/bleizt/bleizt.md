@@ -26,5 +26,5 @@
 # [Hyeok2044](https://github.com/agutin727/Catamarca-skins/raw/main/players/bleizt/Hyeok2044.osk)
 [![](https://osu.ppy.sh/ss/19222881/439f)](https://github.com/agutin727/Catamarca-skins/raw/main/players/bleizt/Hyeok2044.osk)
 
-# [azerino_x_przemizz](https://github.com/agutin727/Catamarca-skins/blob/main/players/bleizt/azerino%20x%20przemizz.osk)
-[![](https://osu.ppy.sh/ss/19222959/acf4)](https://github.com/agutin727/Catamarca-skins/blob/main/players/bleizt/azerino%20x%20przemizz.osk)
+# [azerino_x_przemizz](https://github.com/agutin727/Catamarca-skins/raw/main/players/bleizt/azerino%20x%20przemizz.osk)
+[![](https://osu.ppy.sh/ss/19222959/acf4)](https://github.com/agutin727/Catamarca-skins/raw/main/players/bleizt/azerino%20x%20przemizz.osk)
