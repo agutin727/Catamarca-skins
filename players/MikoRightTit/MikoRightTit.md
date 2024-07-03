@@ -1,7 +1,7 @@
 # MikoRightTit's skinhub
 
 <p align="center">
-<a href="players/MikoRightTit/MikoRightTit.md">
+<a href="players/MikoRightTit/https://osu.ppy.sh/users/22259826">
        <img src="https://a.ppy.sh/22259826"  
        width="175"
        height="175"></a>
