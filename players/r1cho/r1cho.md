@@ -1,7 +1,7 @@
 # r1cho's skinhub
 
 <p align="center">
-<a href="players/r1cho/richo.md">
+<a href="https://osu.ppy.sh/users/13065919">
     <img src="https://a.ppy.sh/13065919"  
        width="175"
        height="175"></a>
