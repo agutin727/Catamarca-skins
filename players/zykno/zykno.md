@@ -7,3 +7,6 @@
        width="175"
        height="175"></a>
 <br>
+
+# [Monoedit](https://github.com/agutin727/Catamarca-skins/raw/main/players/zykno/Monoedit.osk)
+[![](https://osu.ppy.sh/ss/19223367/5e46)](https://github.com/agutin727/Catamarca-skins/raw/main/players/zykno/Monoedit.osk)
