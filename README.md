@@ -8,7 +8,7 @@ what's up papu, in this github you can find a lot of osu ​​skins from catama
  <summary>lista de players</summary><br>
 · <a href="players/-darky/-darky.md">-darky</a><br>
 · <a href="players/istringer/istringer.md">istringer</a><br>
-· <a href="players/r1cho/richo.md">r1cho<a/><br>
+· <a href="players/r1cho/r1cho.md">r1cho<a/><br>
 · <a href="players/vierjapaz/vierjapaz.md">vierjapaz<a/><br>
 · <a href="players/blzt/blzt.md">bleizt<a/><br>
 · <a href="players/zykno/zykno.md">zykno<a/><br>
