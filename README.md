@@ -24,7 +24,7 @@ Qué onda papu, en este github podrás encontrar una gran parte de skins de osu!
   <img src="https://a.ppy.sh/20328099"  
        width="175"
        height="175"
-   tittle="-darky"></a>
+   title="-darky"></a>
        
        
  <a href="players/istringer/istringer.md">
