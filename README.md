@@ -3,7 +3,7 @@
 Qué onda papurri, en este github podrás encontrar una gran parte de skins de osu! de Catamarca Army, si quieres agregar skins a este github o quieres sugerir un cambio mandame, un mensaje a Discord (darkyzzz)
 
 <details>
- <summary>lista de players</summary><br>
+ <summary>Lista de players</summary><br>
 · <a href="players/-darky/-darky.md">-darky</a><br>
 · <a href="players/istringer/istringer.md">istringer</a><br>
 · <a href="players/r1cho/r1cho.md">r1cho<a/><br>
