@@ -3,7 +3,7 @@
 que onda papurri, en este github podras encontrar una gran parte de skins de osu de catamarca army, si quieres agregar skins a este github o quieres sugerir un cambio mandame un mensaje a discord!(darkyzzz)
 
 what's up papu, in this github you can find a lot of osu ​​skins from catamarca army, if you want to add skins to this github or want to suggest a change send me a message on discord! (darkyzzz)
-<p align="center">
+
 <details>
  <summary>lista de players</summary><br>
 · <a href="players/-darky/-darky.md">-darky</a><br>
@@ -21,7 +21,7 @@ what's up papu, in this github you can find a lot of osu ​​skins from catama
 
   </details>
 
-
+ <p align="center">
  <a href="players/-darky/-darky.md">
   <img src="https://a.ppy.sh/20328099"  
        width="175"
