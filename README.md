@@ -31,7 +31,7 @@ Qué onda papu, en este github podrás encontrar una gran parte de skins de osu!
   <img src="https://a.ppy.sh/16918052"  
        width="175"
        height="175"
- title="istrnger"></a>
+ title="istringer"></a>
 
   <a href="players/r1cho/r1cho.md">
     <img src="https://a.ppy.sh/13065919"  
