@@ -33,3 +33,6 @@ hola si
 # [-rudj dt pink](https://github.com/agutin727/Catamarca-skins/raw/main/players/istringer/-%20rudj%20dt%20pink.osk)
 [![](https://osu.ppy.sh/ss/19224895/096a)](https://github.com/agutin727/Catamarca-skins/raw/main/players/istringer/-%20rudj%20dt%20pink.osk)
 
+# [tekkitowww](https://github.com/agutin727/Catamarca-skins/raw/main/players/istringer/tekkitowww.osk)
+[![](https://osu.ppy.sh/ss/19224921/30c4)](https://github.com/agutin727/Catamarca-skins/raw/main/players/istringer/tekkitowww.osk)
+
