@@ -1,6 +1,6 @@
 # Catamarca Skins
 
-Qué onda papurri, en este github podrás encontrar una gran parte de skins de osu! de Catamarca Army, si quieres agregar skins a este github o quieres sugerir un cambio mandame, un mensaje a Discord (darkyzzz)
+Qué onda papu, en este github podrás encontrar una gran parte de skins de osu! de Catamarca Army, si quieres sugerir un cambio mandame un mensaje a Discord (darkyzzz)
 
 <details>
  <summary>Lista de players</summary><br>
