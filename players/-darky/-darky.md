@@ -9,4 +9,5 @@
   # [DARKYSKINUWU](https://github.com/agutin727/Catamarca-skins/raw/main/players/-darky/DARKYSKYNUWU.osk)
   [![](https://osu.ppy.sh/ss/19222115/b0a0)](https://github.com/agutin727/Catamarca-skins/raw/main/players/-darky/DARKYSKYNUWU.osk)
 
-  # [-Darkyskincolorcitos]
+  # [-Darkyskincolorcitos](https://github.com/agutin727/Catamarca-skins/blob/main/players/-darky/Darkyskincolorcitos.osk)
+  [![](https://osu.ppy.sh/ss/19223825/4fea)](https://github.com/agutin727/Catamarca-skins/blob/main/players/-darky/Darkyskincolorcitos.osk)
