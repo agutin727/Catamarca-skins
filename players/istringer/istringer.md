@@ -30,6 +30,6 @@ hola si
 # [CharleLee 1.6](https://github.com/agutin727/Catamarca-skins/raw/main/players/istringer/CharleLee%201.6.osk)
 [![](https://osu.ppy.sh/ss/19224885/e710)](https://github.com/agutin727/Catamarca-skins/raw/main/players/istringer/CharleLee%201.6.osk)
 
-# [-rudj dt pink](https://github.com/agutin727/Catamarca-skins/blob/main/players/istringer/-%20rudj%20dt%20pink.osk)
-[![](https://osu.ppy.sh/ss/19224895/096a)](https://github.com/agutin727/Catamarca-skins/blob/main/players/istringer/-%20rudj%20dt%20pink.osk)
+# [-rudj dt pink](https://github.com/agutin727/Catamarca-skins/raw/main/players/istringer/-%20rudj%20dt%20pink.osk)
+[![](https://osu.ppy.sh/ss/19224895/096a)](https://github.com/agutin727/Catamarca-skins/raw/main/players/istringer/-%20rudj%20dt%20pink.osk)
 
