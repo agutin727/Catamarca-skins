@@ -9,7 +9,7 @@
 <br>
 
 # [Aristia Edit2](https://github.com/agutin727/Catamarca-skins/raw/main/players/gonsoo/Aristia(Edit).osk)
-[![(https://osu.ppy.sh/ss/19224896/0c4b)](https://github.com/agutin727/Catamarca-skins/raw/main/players/gonsoo/Aristia(Edit).osk)
+[![](https://osu.ppy.sh/ss/19224896/0c4b)](https://github.com/agutin727/Catamarca-skins/raw/main/players/gonsoo/Aristia(Edit).osk)
 
 # [Wakson](https://github.com/agutin727/Catamarca-skins/raw/main/players/gonsoo/Wakson.osk)
 [![(https://osu.ppy.sh/ss/19224898/5529)](https://github.com/agutin727/Catamarca-skins/raw/main/players/gonsoo/Wakson.osk)
