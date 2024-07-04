@@ -26,3 +26,9 @@ hola si
 
 # [VierjaPaz-[NathanRam]](https://github.com/agutin727/Catamarca-skins/raw/main/players/istringer/VierjaPaz-%5BNathanRam%5D.osk)
 [![](https://osu.ppy.sh/ss/19222221/846c)](https://github.com/agutin727/Catamarca-skins/raw/main/players/istringer/VierjaPaz-%5BNathanRam%5D.osk)
+
+# [CharleLee 1.6](https://github.com/agutin727/Catamarca-skins/raw/main/players/istringer/CharleLee%201.6.osk)
+[![](https://osu.ppy.sh/ss/19224885/e710)](https://github.com/agutin727/Catamarca-skins/raw/main/players/istringer/CharleLee%201.6.osk)
+
+
+
