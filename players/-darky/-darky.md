@@ -11,3 +11,11 @@
 
   # [-Darkyskincolorcitos](https://github.com/agutin727/Catamarca-skins/blob/main/players/-darky/Darkyskincolorcitos.osk)
   [![](https://osu.ppy.sh/ss/19223825/4fea)](https://github.com/agutin727/Catamarca-skins/blob/main/players/-darky/Darkyskincolorcitos.osk)
+
+  #[lin yong che's chinese](https://github.com/agutin727/Catamarca-skins/blob/main/players/-darky/Lin%20Yong%20Che's%20Chinese%20Skin.osk)
+    [![](https://osu.ppy.sh/ss/19223828/0d1b)](https://github.com/agutin727/Catamarca-skins/blob/main/players/-darky/Lin%20Yong%20Che's%20Chinese%20Skin.osk)
+
+ #[AAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://github.com/agutin727/Catamarca-skins/blob/main/players/-darky/AAAAAAAAAAAAAAAAAAAAAAAAAAAAA.osk)
+ [![](https://osu.ppy.sh/ss/19223833/c85b)](https://github.com/agutin727/Catamarca-skins/blob/main/players/-darky/AAAAAAAAAAAAAAAAAAAAAAAAAAAAA.osk)
+
+ 
