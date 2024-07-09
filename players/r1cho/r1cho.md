@@ -32,4 +32,4 @@
 [![](https://osu.ppy.sh/ss/19222958/22a6)](https://github.com/agutin727/Catamarca-skins/raw/main/players/r1cho/Aleph%20Aricin%20Mix%202024.osk)
 
 # [Rafis HDDT (vaxei ver.)](https://github.com/agutin727/Catamarca-skins/raw/main/players/r1cho/Rafis%20HDDT%20(vaxei%20ver.).osk)
-[![](https://osu.ppy.sh/ss/19222958/22a6)](https://github.com/agutin727/Catamarca-skins/blob/main/players/r1cho/Rafis%20HDDT%20(vaxei%20ver.).osk)
+[![](https://osu.ppy.sh/ss/19230731/8ff0)](https://github.com/agutin727/Catamarca-skins/blob/main/players/r1cho/Rafis%20HDDT%20(vaxei%20ver.).osk)
