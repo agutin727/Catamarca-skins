@@ -1,4 +1,6 @@
 # Pipipupu997
+
+<p align="center">
 [![](https://a.ppy.sh/20120615?1696716550.jpeg)](https://osu.ppy.sh/users/20120615)
 
 
