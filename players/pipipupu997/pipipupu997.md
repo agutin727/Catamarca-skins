@@ -5,6 +5,7 @@
   <img src="https://a.ppy.sh/20120615"  
        width="175"
        height="175"></a>
+<br>
 
 # [vv_idke_trail](https://github.com/agutin727/Catamarca-skins/raw/main/players/pipipupu997/vv_idke_trail.osk)
 [![](https://osu.ppy.sh/ss/19222154/a346)](https://github.com/agutin727/Catamarca-skins/raw/main/players/pipipupu997/vv_idke_trail.osk)
