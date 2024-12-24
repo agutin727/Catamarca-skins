@@ -1,4 +1,4 @@
-# Pipipupu997
+# Pipipupu997's skinhub
 
 <p align="center">
 <a href="https://osu.ppy.sh/users/20120615">
