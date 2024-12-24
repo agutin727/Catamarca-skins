@@ -1,8 +1,10 @@
 # Pipipupu997
 
 <p align="center">
-[![](https://a.ppy.sh/20120615?1696716550.jpeg)](https://osu.ppy.sh/users/20120615)
-
+<a href="https://osu.ppy.sh/users/20120615">
+  <img src="https://a.ppy.sh/20120615"  
+       width="175"
+       height="175"></a>
 
 # [vv_idke_trail](https://github.com/agutin727/Catamarca-skins/raw/main/players/pipipupu997/vv_idke_trail.osk)
 [![](https://osu.ppy.sh/ss/19222154/a346)](https://github.com/agutin727/Catamarca-skins/raw/main/players/pipipupu997/vv_idke_trail.osk)
