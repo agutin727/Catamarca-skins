@@ -86,11 +86,11 @@ Qué onda papu, en este github podrás encontrar una gran parte de skins de osu!
        width="175"
        height="175"
         title="voctok"></a>
- <br>
+ 
 
 <a href="players/papita chip/papita chip.md">
         <img src="https://a.ppy.sh/22564933"
         width="175"
         height="175"
         title="Papita Chip"></a>
- <br>
+ 
