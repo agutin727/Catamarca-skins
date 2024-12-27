@@ -7,4 +7,4 @@
 <br>
 
 # [im a fancy lad & shige DT](https://github.com/agutin727/Catamarca-skins/blob/main/players/papita%20chip/im%20a%20fancy%20lad%20%26%20shige%20DT.osk)
-[![]https://osu.ppy.sh/ss/19446335/e609](https://github.com/agutin727/Catamarca-skins/blob/main/players/papita%20chip/im%20a%20fancy%20lad%20%26%20shige%20DT.osk)
+[![](https://osu.ppy.sh/ss/19446335/e609)](https://github.com/agutin727/Catamarca-skins/blob/main/players/papita%20chip/im%20a%20fancy%20lad%20%26%20shige%20DT.osk)
