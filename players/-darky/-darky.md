@@ -22,8 +22,8 @@
   # [AAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://github.com/agutin727/Catamarca-skins/blob/main/players/-darky/AAAAAAAAAAAAAAAAAAAAAAAAAAAAA.osk)
  [![](https://osu.ppy.sh/ss/19223833/c85b)](https://github.com/agutin727/Catamarca-skins/blob/main/players/-darky/AAAAAAAAAAAAAAAAAAAAAAAAAAAAA.osk)
 
-  # [vaxei instafade](https://github.com/agutin727/Catamarca-skins/blob/main/players/-darky/vaxei%20instafade.osk)
- [![](https://osu.ppy.sh/ss/19224881/9796)](https://github.com/agutin727/Catamarca-skins/blob/main/players/-darky/vaxei%20instafade.osk)
+  # [vaxei instafade](https://drive.google.com/file/d/1GB6O7Mxcvs75g5nVh6k32zIR_uryiaAL/view?usp=drive_link)
+ [![](https://osu.ppy.sh/ss/19224881/9796)](https://drive.google.com/file/d/1GB6O7Mxcvs75g5nVh6k32zIR_uryiaAL/view?usp=drive_link)
 
   # [chori skin](https://github.com/agutin727/Catamarca-skins/blob/main/players/-darky/%5B%20Chori%20Skin%20%5D.osk)
    [![](https://osu.ppy.sh/ss/19224920/3c03)](https://github.com/agutin727/Catamarca-skins/blob/main/players/-darky/%5B%20Chori%20Skin%20%5D.osk)
