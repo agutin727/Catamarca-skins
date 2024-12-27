@@ -14,3 +14,6 @@
 
 # [Rafis by cheep](https://drive.google.com/file/d/1WGG23TohcZXVAEyuzWvnjttQG5SJbLvI/view?usp=sharing)
 [![](https://osu.ppy.sh/ss/19446359/0c7a)](https://drive.google.com/file/d/1WGG23TohcZXVAEyuzWvnjttQG5SJbLvI/view?usp=sharing)
+
+# [-+bakanyakanyaikakanyai+-](https://github.com/agutin727/Catamarca-skins/blob/main/players/papita%20chip/-%2Bbakanyakanyaikakanyai%2B-.osk)
+[![](https://osu.ppy.sh/ss/19446367/8fa8)](https://github.com/agutin727/Catamarca-skins/blob/main/players/papita%20chip/-%2Bbakanyakanyaikakanyai%2B-.osk)
