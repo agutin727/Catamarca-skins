@@ -12,5 +12,5 @@
 # [Monoedit4](https://github.com/agutin727/Catamarca-skins/blob/main/players/papita%20chip/Monoedit4.osk)
 [![](https://osu.ppy.sh/ss/19446338/819d)](https://github.com/agutin727/Catamarca-skins/blob/main/players/papita%20chip/Monoedit4.osk)
 
-#[Rafis by cheep](https://drive.google.com/file/d/1WGG23TohcZXVAEyuzWvnjttQG5SJbLvI/view?usp=sharing)
-[![](https://osu.ppy.sh/ss/19446356/7360)](https://drive.google.com/file/d/1WGG23TohcZXVAEyuzWvnjttQG5SJbLvI/view?usp=sharing)
+# [Rafis by cheep](https://drive.google.com/file/d/1WGG23TohcZXVAEyuzWvnjttQG5SJbLvI/view?usp=sharing)
+[![](https://osu.ppy.sh/ss/19446359/0c7a)](https://drive.google.com/file/d/1WGG23TohcZXVAEyuzWvnjttQG5SJbLvI/view?usp=sharing)
