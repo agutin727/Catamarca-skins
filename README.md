@@ -15,7 +15,7 @@ Qué onda papu, en este github podrás encontrar una gran parte de skins de osu!
 · <a href="players/gonsoo/gonsoo.md">gonsoo<a/><br> 
 · <a href="players/MikoRightTit/MikoRightTit.md">MikoRightTit<a/><br> 
 · <a href="players/voctok/voctok.md">voctok<a/><br> 
-. <a href="players/papita chip/papita chip.md">Papita Chip<a/><br>
+. <a href="players/papita chip/papita chip.md">Papita Chip<a/>
 
   </details>
 
