@@ -16,7 +16,7 @@ Qué onda papu, en este github podrás encontrar una gran parte de skins de osu!
 · <a href="players/MikoRightTit/MikoRightTit.md">MikoRightTit<a/><br> 
 · <a href="players/voctok/voctok.md">voctok<a/><br> 
 . <a href="players/papita chip/papita chip.md">Papita Chip<a/>
-
+. <a href="players/Bomilk/Bomilk.md">bomilk<a/>
   </details>
 
  <p align="center">
@@ -94,3 +94,8 @@ Qué onda papu, en este github podrás encontrar una gran parte de skins de osu!
         height="175"
         title="Papita Chip"></a>
  
+<a href="players/Bomilk/Bomilk.md">
+        <img src="https://a.ppy.sh/7081596"
+        width="175"
+        height="175"
+        title="Bomilk"></a>
