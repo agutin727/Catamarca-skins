@@ -11,7 +11,7 @@
 # [Monoedit](https://drive.google.com/file/d/1wHwTmKdtcJja83kPr4BSwdYxQqZUl-33/view?usp=drive_link)
 [![](https://osu.ppy.sh/ss/19223367/5e46)](https://github.com/agutin727/Catamarca-skins/raw/main/players/zykno/Monoedit.osk)
 
-# [Boop k](https://github.com/agutin727/Catamarca-skins/raw/main/players/zykno/boop%20k.osk)
+# [Boop karthy](https://drive.google.com/file/d/1nB3yynrRvHZrmm34kpMx3iCYgvRm6P27/view?usp=drive_link)
 [![](https://osu.ppy.sh/ss/19223369/44f9)](https://github.com/agutin727/Catamarca-skins/raw/main/players/zykno/boop%20k.osk)
 
 # [VierjaPaz ItWasMonkoLOL](https://github.com/agutin727/Catamarca-skins/raw/main/players/zykno/VierjaPaz-%5BItWasMonkoLOL%5D.osk)
