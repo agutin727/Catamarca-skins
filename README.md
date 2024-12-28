@@ -5,7 +5,7 @@ Qué onda papu, en este github podrás encontrar una gran parte de skins de osu!
 <details>
  <summary>Lista de players</summary><br>
 · <a href="players/-darky/-darky.md">-darky</a><br>
-. <a href="players/Bomilk/Bomilk.md">bomilk<a/>
+. <a href="players/Bomilk/Bomilk.md">bomilk<a/><br>
 · <a href="players/istringer/istringer.md">istringer</a><br>
 · <a href="players/r1cho/r1cho.md">r1cho<a/><br>
 · <a href="players/vierjapaz/vierjapaz.md">vierjapaz<a/><br>
