@@ -7,6 +7,10 @@
        height="175"></a>
 <br>
 
+# [Mizuki Simple](https://drive.google.com/file/d/1DoRQYyobKv-hI2XRFoTqoGYMEEV3s7b6/view?usp=sharing)
+[![](https://osu.ppy.sh/ss/19447433/16e4)](https://drive.google.com/file/d/1DoRQYyobKv-hI2XRFoTqoGYMEEV3s7b6/view?usp=sharing)
+
+
 # [Rafis 2018-03-26 HDDT](https://github.com/agutin727/Catamarca-skins/raw/main/players/r1cho/Rafis%202018-03-26%20HDDT.osk)
 [![](https://osu.ppy.sh/ss/19222857/13c4)](https://github.com/agutin727/Catamarca-skins/raw/main/players/r1cho/Rafis%202018-03-26%20HDDT.osk)
 
