@@ -17,6 +17,7 @@ Qué onda papu, en este github podrás encontrar una gran parte de skins de osu!
 · <a href="players/pipipupu997/pipipupu997.md">pipipupu997<a/><br>
 · <a href="players/voctok/voctok.md">voctok<a/><br> 
 . <a href="players/papita chip/papita chip.md">Papita Chip<a/>
+. <a href=players/Tsura/Tsura.md">Tsura<a/>
 
   </details>
 
@@ -104,4 +105,8 @@ Qué onda papu, en este github podrás encontrar una gran parte de skins de osu!
         height="175"
         title="Papita Chip"></a>
  
-
+<a href="players/Tsura/Tsura.md">
+        <img src="https://a.ppy.sh/13680339"
+        width="175"
+        height="175"
+        title="Tsura"></a>
