@@ -8,7 +8,7 @@
        height="175"></a>
 <br>
 
-# [Monoedit](https://github.com/agutin727/Catamarca-skins/raw/main/players/zykno/Monoedit.osk)
+# [Monoedit](https://drive.google.com/file/d/1wHwTmKdtcJja83kPr4BSwdYxQqZUl-33/view?usp=drive_link)
 [![](https://osu.ppy.sh/ss/19223367/5e46)](https://github.com/agutin727/Catamarca-skins/raw/main/players/zykno/Monoedit.osk)
 
 # [Boop k](https://github.com/agutin727/Catamarca-skins/raw/main/players/zykno/boop%20k.osk)
