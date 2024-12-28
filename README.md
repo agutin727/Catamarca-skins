@@ -5,7 +5,7 @@ Qué onda papu, en este github podrás encontrar una gran parte de skins de osu!
 <details>
  <summary>Lista de players</summary><br>
 · <a href="players/-darky/-darky.md">-darky</a><br>
- <a href="players/Bomilk/Bomilk.md">bomilk<a/>
+. <a href="players/Bomilk/Bomilk.md">bomilk<a/>
 · <a href="players/istringer/istringer.md">istringer</a><br>
 · <a href="players/r1cho/r1cho.md">r1cho<a/><br>
 · <a href="players/vierjapaz/vierjapaz.md">vierjapaz<a/><br>
@@ -26,7 +26,13 @@ Qué onda papu, en este github podrás encontrar una gran parte de skins de osu!
        width="175"
        height="175"
    title="-darky"></a>
-       
+
+ <a href="players/Bomilk/Bomilk.md">
+        <img src="https://a.ppy.sh/7081596"
+        width="175"
+        height="175"
+        title="Bomilk"></a>
+      
        
  <a href="players/istringer/istringer.md">
   <img src="https://a.ppy.sh/16918052"  
@@ -45,12 +51,6 @@ Qué onda papu, en este github podrás encontrar una gran parte de skins de osu!
        width="175"
        height="175"
      title="vierjapaz"></a>
-
-  <a href="players/bleizt/bleizt.md">
-   <img src="https://a.ppy.sh/13999216"  
-       width="175"
-       height="175"
-    title="bleizt"></a>
  
   <a href="players/zykno/zykno.md">
     <img src="https://a.ppy.sh/6105480"  
@@ -58,13 +58,15 @@ Qué onda papu, en este github podrás encontrar una gran parte de skins de osu!
        height="175"
      title="zykno"></a>
 
-  <a href="players/pipipupu997/pipipupu997.md">     
-      <img src="https://a.ppy.sh/20120615"  
+
+  <a href="players/bleizt/bleizt.md">
+   <img src="https://a.ppy.sh/13999216"  
        width="175"
        height="175"
-       title="pipipupu997"></a>
-       
-   <a href="players/linx/linx.md">
+    title="bleizt"></a>
+    
+
+  <a href="players/linx/linx.md">
     <img src="https://a.ppy.sh/10970229"  
        width="175"
        height="175"
@@ -82,7 +84,14 @@ Qué onda papu, en este github podrás encontrar una gran parte de skins de osu!
        height="175"
         title="MikoRightTit"></a>
 
-<a href="players/voctok/voctok.md">
+  <a href="players/pipipupu997/pipipupu997.md">     
+      <img src="https://a.ppy.sh/20120615"  
+       width="175"
+       height="175"
+       title="pipipupu997"></a>
+       
+  
+  <a href="players/voctok/voctok.md">
        <img src="https://a.ppy.sh/13881936"  
        width="175"
        height="175"
@@ -95,8 +104,4 @@ Qué onda papu, en este github podrás encontrar una gran parte de skins de osu!
         height="175"
         title="Papita Chip"></a>
  
-<a href="players/Bomilk/Bomilk.md">
-        <img src="https://a.ppy.sh/7081596"
-        width="175"
-        height="175"
-        title="Bomilk"></a>
+
