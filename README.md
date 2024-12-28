@@ -5,18 +5,19 @@ Qué onda papu, en este github podrás encontrar una gran parte de skins de osu!
 <details>
  <summary>Lista de players</summary><br>
 · <a href="players/-darky/-darky.md">-darky</a><br>
+ <a href="players/Bomilk/Bomilk.md">bomilk<a/>
 · <a href="players/istringer/istringer.md">istringer</a><br>
 · <a href="players/r1cho/r1cho.md">r1cho<a/><br>
 · <a href="players/vierjapaz/vierjapaz.md">vierjapaz<a/><br>
-· <a href="players/bleizt/bleizt.md">bleizt<a/><br>
 · <a href="players/zykno/zykno.md">zykno<a/><br>
-· <a href="players/pipipupu997/pipipupu997.md">pipipupu997<a/><br>
+· <a href="players/bleizt/bleizt.md">bleizt<a/><br>
 · <a href="players/linx/linx.md">linx<a/><br> 
 · <a href="players/gonsoo/gonsoo.md">gonsoo<a/><br> 
 · <a href="players/MikoRightTit/MikoRightTit.md">MikoRightTit<a/><br> 
+· <a href="players/pipipupu997/pipipupu997.md">pipipupu997<a/><br>
 · <a href="players/voctok/voctok.md">voctok<a/><br> 
 . <a href="players/papita chip/papita chip.md">Papita Chip<a/>
-. <a href="players/Bomilk/Bomilk.md">bomilk<a/>
+
   </details>
 
  <p align="center">
