@@ -9,7 +9,7 @@
 <br>
 
 # [- # NaruV3.0 - zykno edit](https://drive.google.com/file/d/1Tpo6h7DDb2qfzjXBYC8hUZJbLZkPKiRL/view?usp=sharing)
-[![](https://osu.ppy.sh/ss/19551095/2b2a)](https://github.com/agutin727/Catamarca-skins/blob/main/players/zykno/-%20%23%20NaruV3.0%20-%20zykno%20edit.osk)
+[![](https://osu.ppy.sh/ss/19551095/2b2a)](https://github.com/agutin727/Catamarca-skins/raw/refs/heads/main/players/zykno/-%20%23%20NaruV3.0%20-%20zykno%20edit.osk)
 
 # [Monoedit](https://drive.google.com/file/d/1wHwTmKdtcJja83kPr4BSwdYxQqZUl-33/view?usp=drive_link)
 [![](https://osu.ppy.sh/ss/19223367/5e46)](https://github.com/agutin727/Catamarca-skins/raw/main/players/zykno/Monoedit.osk)
